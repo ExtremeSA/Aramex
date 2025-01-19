@@ -1,5 +1,5 @@
 {
-    "name": "extremesa/aramex",
+    "name": "wqqas1/aramex",
     "description": "Integrate Laravel project with Aramex.",
     "keywords": [
     ],
@@ -12,7 +12,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1.0",
-        "laravel/framework": "^5.8"
+        "laravel/framework": ">=5.8"
     },
     "autoload": {
         "psr-4": {
